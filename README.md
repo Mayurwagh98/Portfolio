@@ -51,7 +51,7 @@ You will find `src/portfolio.js` file which contains the complete information ab
 
 ```python
 
-//I Would Highly Recommend Customize The Theme According To Your Taste.
+// You Can Customize The Theme According To Your Taste.
 export const globalStyles = {
     "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)",
     "--txtcolor": "#272341",
